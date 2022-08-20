@@ -1,7 +1,7 @@
-I'm DoxFulmer
-Interested in coding/security/cryptography/forensics
-Currently learning Java/Python
-doxfulmer@gmail.com
+-I'm DoxFulmer
+-Interested in coding/security/cryptography/forensics
+-Currently learning Java/Python
+-doxfulmer@gmail.com
 
 
 <!---
